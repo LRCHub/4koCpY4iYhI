@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "町かどタンジェント",
+  "base_artist": "shami momo",
+  "createdAt": "2025-12-14T22:41:33.891801Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "町かどタンジェント",
+      "artist": "shami momo(吉田優子・千代田桃)/CV:小原好美・鬼頭明里",
+      "has_synced": true,
+      "path": "select/01_町かどタンジェント_shami_momo(吉田優子・千代田桃)_CV_小原好美・鬼頭明里.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "町かどタンジェント",
+      "artist": "shami momo",
+      "has_synced": true,
+      "path": "select/02_町かどタンジェント_shami_momo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "町かどタンジェント(TV size edit)",
+      "artist": "shami momo(吉田優子・千代田桃)/CV:小原好美・鬼頭明里",
+      "has_synced": false,
+      "path": "select/03_町かどタンジェント(TV_size_edit)_shami_momo(吉田優子・千代田桃)_CV_小原好美・鬼頭明里.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "町かどタンジェント (TV size edit)",
+      "artist": "shami momo",
+      "has_synced": false,
+      "path": "select/04_町かどタンジェント_(TV_size_edit)_shami_momo.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "町かどタンジェント",
+      "artist": "shami momo",
+      "has_synced": true,
+      "path": "select/05_町かどタンジェント_shami_momo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "町かどタンジェント",
+      "artist": "shami momo",
+      "has_synced": false,
+      "path": "select/pl_01_町かどタンジェント_shami_momo.txt"
+    }
+  ]
+}
